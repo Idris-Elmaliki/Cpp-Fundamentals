@@ -21,7 +21,7 @@ Data Structures & Algorithms (DSA)
 - [Graphs-in-Cpp](https://github.com/Idris-Elmaliki/Graphs-in-Cpp) — Basic unweighted, bi-directional graph using an adjacency-set representation.
 
 **Hashing**
-- [Simple-HashTable---Cpp](https://github.com/Idris-Elmaliki/Simple-HashTable---Cpp) — Hash table built from scratch to study how `std::unordered_map` hashing and mapping work internally.\
+- [Simple-HashTable---Cpp](https://github.com/Idris-Elmaliki/Simple-HashTable---Cpp) — Hash table built from scratch to study how `std::unordered_map` hashing and mapping work internally.
 
 **Sorting**
 - [Basic-Sorts-Cpp](https://github.com/Idris-Elmaliki/Basic-Sorts-Cpp) — Bubble sort, selection sort, and insertion sort.
@@ -29,7 +29,7 @@ Data Structures & Algorithms (DSA)
 - [Quick-Sort-Cpp](https://github.com/Idris-Elmaliki/Quick-Sort-Cpp) — QuickSort with a written comparison of its approach against merge sort and insertion sort.
 
 **Projects**
-- [Recreating-STL-containers](https://github.com/Idris-Elmaliki/Recreating-STL-containers) — Rebuilding `std::array`, `std::vector`, `std::list`, `std::deque`, and `std::unordered_map` from scratch, focused on manual memory management (no smart pointers) and deepening DSA fundamentals.
+- [Recreating-STL-containers](https://github.com/Idris-Elmaliki/Recreating-STL-containers) — Rebuilding `std::array`, `std::vector`, `std::list`, `std::deque`, `std::unordered_map`, and more from scratch, focused on manual memory management (no smart pointers) and deepening DSA fundamentals.
 
 OpenGL
 ------
@@ -41,7 +41,7 @@ CMake
 
 
 ## Progress
-My Goal: Be comfortable enough to use my skills in a real project
+My Goal: Be comfortable enough to use my skills in a real project.
 
 _Learning → Practicing → Making Project(s)_
 
