@@ -1,4 +1,4 @@
-# C-Fundementals
+# Cpp-Fundementals
 A hub for my C++ work, whether it's data structures & algorithms, graphics programming, or even CMake.
 
 Repositories
