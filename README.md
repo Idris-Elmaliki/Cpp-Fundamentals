@@ -1,5 +1,5 @@
 # Cpp-Fundamentals
-A hub for my C++ work, whether it's data structures & algorithms, graphics programming, or even CMake.
+A hub for my C++ work, whether it's data structures & algorithms, graphics programming, or CMake.
 
 Repositories
 ============
@@ -9,6 +9,7 @@ Data Structures & Algorithms (DSA)
 
 **Linear structures**
 - [Linked-List](https://github.com/Idris-Elmaliki/Linked-List) — Singly linked list covering core node-based operations (insertion, deletion, traversal).
+- [Doubly-Linked-List](https://github.com/Idris-Elmaliki/doublyLinkedList) - Doubly linked list covering core node-based operations (insertion, deletion, traversal).
 - [Stack](https://github.com/Idris-Elmaliki/Stack) — Basic stack implementation.
 - [Queue](https://github.com/Idris-Elmaliki/Queue) — Queue implemented on top of a linked list.
 
@@ -34,6 +35,7 @@ Data Structures & Algorithms (DSA)
 OpenGL
 ------
 - [Triangle-In-OpenGL](https://github.com/Idris-Elmaliki/Triangle-In-OpenGL) — First dive into modern OpenGL: rendering a triangle using GLFW (windowing) and GLEW (modern GL support), heavily commented while learning the graphics pipeline.
+- [Learning OpenGL](https://github.com/Muslims-Who-Code/Learning-OpenGL) - This is **the** OpenGL repo, here is where all of my progress on learning OpenGL will be (Next stop is a !
 
 CMake
 -----
@@ -45,8 +47,8 @@ My Goal: Be comfortable enough to use my skills in a real project.
 
 _Learning → Practicing → Making Project(s)_
 
-- **DSA** — ✅ → ✅ → 🔵
+- **DSA**    — ✅ → ✅ → 🔵
 - **OpenGL** — 🔵 → ⚪ → ⚪
-- **CMake** — 🔵 → ⚪ → ⚪
+- **CMake**  — 🔵 → ⚪ → ⚪
 
 🔵 Current stage · ✅ Passed · ⚪ Not yet reached  
