@@ -35,7 +35,7 @@ Data Structures & Algorithms (DSA)
 OpenGL
 ------
 - [Triangle-In-OpenGL](https://github.com/Idris-Elmaliki/Triangle-In-OpenGL) — First dive into modern OpenGL: rendering a triangle using GLFW (windowing) and GLEW (modern GL support), heavily commented while learning the graphics pipeline.
-- [Learning OpenGL](https://github.com/Muslims-Who-Code/Learning-OpenGL) - This is **the** OpenGL repo, here is where all of my progress on learning OpenGL will be (Next stop is a !
+- [Learning OpenGL](https://github.com/Muslims-Who-Code/Learning-OpenGL) - This is **the** OpenGL repo, here is where all of my progress on learning OpenGL will be (Next stop is an actual game)!
 
 CMake
 -----
